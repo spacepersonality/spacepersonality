@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "752110269129",
+    "firebase_url": "https://spacepersonality-34475.firebaseio.com",
+    "project_id": "spacepersonality-34475",
+    "storage_bucket": "spacepersonality-34475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752110269129:android:9f47202afce264c6",
+        "android_client_info": {
+          "package_name": "com.spacepersonality.shell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752110269129-stbbst6f2ra683s9m857rrrbr0qm71uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjPzJc3sABTvUpoL0Q98K_CoZq3OtRW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
